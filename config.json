@@ -1,0 +1,8 @@
+{
+    "SERVER_URL" : "https://docs.communityactioncollab.org/wp-json/wp/v2/",
+    "SERVER_FROM": "https://docs.communityactioncollab.org/wp-json/",
+    "LIVE_SERVER": "58",
+    "STAG_SERVER": "59"
+}
+
+
